@@ -1,5 +1,5 @@
 # 💫 About Me:
-Laravel Web Developer<br>19 years old<br>With Tylor in Luv<br>
+Laravel Web Developer<br>19 years old<br>
 
 
 # 💻 Tech Stack:
@@ -11,9 +11,6 @@ Laravel Web Developer<br>19 years old<br>With Tylor in Luv<br>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=gxldmane&icon=0&color=10)](https://visitcount.itsvg.in)
