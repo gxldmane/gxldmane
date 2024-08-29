@@ -1,7 +1,9 @@
 # 💫 About Me:
 Laravel Web Developer<br>20 years old<br>
 
-- [BookMate API Clone on GitLab](https://gitlab.com/personal202530/book_app) - 
+## Additional resources
+
+- [BookMate API Clone on GitLab](https://gitlab.com/personal202530/book_app)
 
 
 # 💻 Tech Stack:
