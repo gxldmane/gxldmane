@@ -1,5 +1,5 @@
 # 💫 About Me:
-Laravel Web Developer<br>20 years old<br>
+PHP Web Developer<br>21 years old<br>
 
 ## Additional resources
 
